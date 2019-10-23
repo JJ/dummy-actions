@@ -9,4 +9,4 @@ jobs:
         uses: JJ/pr-greeting-action@releases/v0
         with:
           repo-token: ${{ secrets.GITHUB_TOKEN }}
-          pr-message: "Testing GitHub-rendered stuff: :see_no_evil:"
+          pr-message: "Testing GitHub-rendered stuff: :see_no_evil:f"
